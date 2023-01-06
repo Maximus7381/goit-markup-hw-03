@@ -315,6 +315,8 @@ ol {
 .img-foto {
   background: #ffffff;
   margin-bottom: 32px;
+  width: 264px;
+  
 }
 .name-specialty {
     padding-top: 32px;
@@ -369,7 +371,7 @@ ol {
 }
 /* =========================Portfolio=================== */
 .portfolio-main {
-    padding-top: 62px;
+    padding-top: 96px;
     padding-bottom: 120px;
 }
 
@@ -439,6 +441,8 @@ ol {
 .dev {
     padding-top: 32px;
     padding-bottom: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
 }
 
 .dev-img {
@@ -466,8 +470,8 @@ ol {
   color: var(--dark);
   /* margin-top: 32px; */
   margin-bottom: 8px;
-  padding-right: 54px;
-  padding-left: 16px;
+  /* padding-right: 54px;
+  padding-left: 16px; */
 }
 
 .dev-name-list {
@@ -476,7 +480,7 @@ ol {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--text);
-  padding-left: 16px;
+  /* padding-left: 16px; */
  
 }
 
